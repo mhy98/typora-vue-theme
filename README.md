@@ -4,6 +4,8 @@
 
 [中文](README_CN.md)
 
+> **Modified by MHY: Added indentation to fit Chinese documents; Adjust the size and spacing to make the document tight.**
+
 > This is a typora theme inspired by [Vue](http://vuejs.org/) document style.
 
 ## Introduction

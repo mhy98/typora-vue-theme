@@ -4,6 +4,8 @@
 
 [English](README.md)
 
+> **修改 by MHY：增加了缩进以适应中文文档；调整字号、间距使文档紧凑。**
+
 > 这是 Typora Markdown 编辑器的类似 Vue 文档风格的自定义主题。
 
 ## 简介
